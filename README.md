@@ -42,7 +42,6 @@ Se utilizó **StatefulWidget y setState / Provider** para la gestión de estado 
 ![Formulario dominio](screenshots/10-formulario.png)
 
 ### Evidencia funcional
-![Foto equipo](screenshots/11-foto-equipo.png)
+![Foto equipo](screenshots/11-foto-equipo.jpeg)
 ![Navegación](screenshots/12-navegacion.png)
-![Foto equipo](screenshots/11-foto-equipo.png)
-![Navegación](screenshots/12-navegacion.png)
+)

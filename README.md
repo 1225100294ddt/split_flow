@@ -22,7 +22,7 @@ Se utilizó **StatefulWidget y setState / Provider** para la gestión de estado 
 ## 6. Screenshots
 
 ### Splashscreen
-![Splash](screenshots/01-splash.png)
+![Splash](screenshots/01-splash.png.png)
 
 ### Autenticación
 ![Login](screenshots/02-login.png)

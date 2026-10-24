@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+class SectionHeading extends StatelessWidget {
+  final String title;
+  final String? actionText;
+  final VoidCallback? onAction;
+
+  const SectionHeading({super.key, required this.title, this.actionText, this.onAction});
+
+  @override
+  Widget build(BuildContext context) {
+    return Row(
+      children: [
+        Expanded(child: Text(title, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold))),
+        if (actionText != null)
+          TextButton(onPressed: onAction, child: Text(actionText!)),
+      ],
+    );
+  }
+}

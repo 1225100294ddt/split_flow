@@ -30,8 +30,8 @@ Se utilizó **StatefulWidget y setState / Provider** para la gestión de estado 
 
 ### Dashboards
 ![Dashboard Admin](screenshots/04-dashboard-admin.png)
-![Dashboard Cliente](screenshots/05-dashboard-cliente.png)
-![Dashboard Operador](screenshots/06-dashboard-operador.png)
+![Dashboard Cliente](screenshots/05-dashboardcliente.png)
+![Dashboard Operador](screenshots/06-dashboard.operador.png)
 
 ### Listas
 ![Lista principal](screenshots/07-lista-principal.png)
@@ -42,5 +42,7 @@ Se utilizó **StatefulWidget y setState / Provider** para la gestión de estado 
 ![Formulario dominio](screenshots/10-formulario.png)
 
 ### Evidencia funcional
+![Foto equipo](screenshots/11-foto-equipo.png)
+![Navegación](screenshots/12-navegacion.png)
 ![Foto equipo](screenshots/11-foto-equipo.png)
 ![Navegación](screenshots/12-navegacion.png)
